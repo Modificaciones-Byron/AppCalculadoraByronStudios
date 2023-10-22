@@ -19,12 +19,11 @@ body {
 .logo-izquierda {
   width: 90px;
   position: relative;
-  left: -45px;
+  left: -55px;
 }
 .logo-principal {
   width: 90px;
   position: relative;
-  right: -10px;
 }
 .logo-derecha {
   width: 90px;
