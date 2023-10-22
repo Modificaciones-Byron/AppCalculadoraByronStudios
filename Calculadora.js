@@ -108,7 +108,7 @@ result = result + increase;
 document.getElementById('result').innerText = "NUEVO EVO: " + String(result) + '\n EVOS SUBIDOS: +' + String(result - startingEVO);
 
 // Array de nombres de archivos de GIF
-const gifNames = ['f1.gif', 'f2.webp', 'f3.gif', 'f4.gif', 'f5.gif', 'f6.gif'];
+const gifNames = ['f1.gif', 'f2.webp', 'f3.gif', 'f4.gif', 'f5.gif', 'f6.gif', 'f7.gif'];
 
 // Obtener el contenedor de imágenes existentes o crear uno nuevo
 const imageContainer = document.getElementById('image-container');
