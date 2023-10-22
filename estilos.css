@@ -34,12 +34,12 @@ body {
 
 /*logos finales*/
 .ara {
-  width: 100px;
+  width: 110px;
   position: relative; /* Opcional, solo si no tienes definida ya la posición */
   left: -80px;
 }
 .murcii{
-  width: 100px;
+  width: 110px;
   position: relative; /* Opcional, solo si no tienes definida ya la posición */
   right: -80px;
 }
