@@ -15,11 +15,24 @@ body {
   font-weight: bold;
 }
 
-/* logo principal */
-.logo-principal img{
+/* logos principal */
+.logo-izquierda {
   width: 100px;
+  position: relative;
+  left: -25px;
+}
+.logo-principal {
+  width: 100px;
+  position: relative;
+  right: -10px;
+}
+.logo-derecha {
+  width: 100px;
+  position: relative;
+  right: -40px;
 }
 
+/*logos finales*/
 .ara {
   width: 100px;
   position: relative; /* Opcional, solo si no tienes definida ya la posición */
