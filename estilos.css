@@ -15,6 +15,11 @@ body {
   font-weight: bold;
 }
 
+/* logo principal */
+.logo-principal img{
+  width: 130px;
+}
+
 /* Letras de calculadora de evo */
 .animate-charcter {
   position: relative;
