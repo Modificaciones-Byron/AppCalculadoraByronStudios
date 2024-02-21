@@ -160,9 +160,6 @@ body {
   flex-grow: 1;
   text-align: right;
   background-color: #ffffff;
-  border-radius: 5px;
-  font-weight: bold;
-
 }
 
 .inputGroup input::placeholder,
